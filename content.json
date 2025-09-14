@@ -1,0 +1,83 @@
+{
+  "topBar": {
+    "phone": "+421 915 993 909",
+    "email": "info@safetygroup.sk"
+  },
+  "header": {
+    "logoText": "SafetyGroupSK"
+  },
+  "hero": {
+    "headline": "Odborné školenia a služby BOZP, na ktoré sa môžete spoľahnúť.",
+    "typedText": "Komplexné služby BOZP • Ochrana pred požiarmi • Kurzy a školenia"
+  },
+  "services": {
+    "title": "Naše služby",
+    "subtitle": "Safety Group SK, s.r.o. poskytuje odborné školenia a služby v oblasti BOZP a ochrany pred požiarmi.",
+    "items": [
+      {
+        "title": "BOZP",
+        "description": "Komplexné služby v oblasti bezpečnosti a ochrany zdravia pri práci – školenia, audity, dokumentácia a poradenstvo."
+      },
+      {
+        "title": "Ochrana pred požiarmi",
+        "description": "Profesionálne školenia, dokumentácia, cvičné poplachy a poradenstvo pre maximálnu bezpečnosť firmy."
+      },
+      {
+        "title": "Kurzy a školenia",
+        "description": "Odborné školenia pre obsluhu zariadení, stavebné stroje, motorové vozíky, lešenia a ďalšie povinné kurzy podľa legislatívy."
+      },
+      {
+        "title": "Revízie a technická správa",
+        "description": "Odborné prehliadky a skúšky vyhradených technických zariadení vrátane zdvíhacích, tlakových, elektrických a plynových zariadení."
+      },
+      {
+        "title": "Koordinátor bezpečnosti",
+        "description": "Profesionálna koordinácia bezpečnosti na stavenisku pre ochranu zdravia zamestnancov a majetku."
+      },
+      {
+        "title": "Kontrola hasiacich prístrojov a hydrantov",
+        "description": "Pravidelné kontroly a servis hasiacich zariadení pre dodržanie zákonných povinností a ochranu objektu."
+      }
+    ]
+  },
+  "moreInfo": {
+    "title": "O nás",
+    "subtitle": "Spoľahlivý partner pre bezpečnosť a ochranu zdravia pri práci.",
+    "cards": [
+      {
+        "title": "Safety Group SK, s.r.o.",
+        "subtitle": "Profesionálny prístup a kvalita",
+        "description": "Safety Group SK, s.r.o. ponúka komplexné služby v oblasti BOZP a OPP. Sme mladá a dynamická firma s viac ako 10 rokmi skúseností, ktorá prináša moderné a praktické školenia prispôsobené potrebám klientov.",
+        "highlights": [
+          "Profesionálny prístup",
+          "Kvalita služieb",
+          "Odborné skúsenosti",
+          "Komplexná ponuka služieb"
+        ]
+      },
+      {
+        "title": "Odborné školenia",
+        "subtitle": "Naše hlavné poslanie",
+        "description": "Zameriavame sa na odborné školenia v oblasti BOZP, kde využívame moderné technológie, videá a názorné ukážky. Každé školenie prispôsobujeme potrebám konkrétnej firmy alebo pracovnej pozície.",
+        "highlights": [
+          "Moderné a efektívne školenia",
+          "Prevencia úrazov",
+          "Splnenie legislatívnych povinností"
+        ]
+      },
+      {
+        "title": "Inovatívny prístup",
+        "subtitle": "Technológie pre efektivitu",
+        "description": "Pri našej práci používame moderné technológie, napríklad drony pri revíziách zdvíhacích zariadení, ktoré šetria čas aj náklady a poskytujú detailné informácie.",
+        "highlights": [
+          "Efektivita",
+          "Úspora času a nákladov",
+          "Detailné výsledky"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2025 Safety Group SK, s.r.o. | Telefón: +421 915 993 909 | Email: info@safetygroup.sk | BOZP & OPP školenia a služby"
+  }
+}
